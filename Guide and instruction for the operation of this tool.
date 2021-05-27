@@ -1,0 +1,13 @@
+You must have already installed python environment on your system/machine.
+Install all required libraries which are mention/written at the very top of the code.
+Take developer key for you-tube api from google and member id for the wolframalpha from its official site.
+While giving command to tool keep in your mind that you have 6 seconds for the same.
+The tool may take a bit of time in operations, based on your machine.
+Some standard command:
+ 1.Who are you?
+ 2.Who created you?
+ 3.Play on you-tube "name of song".
+ 4.Search on wikipedia " name what you want to search".
+ 5.Search of google " what you want to search".
+ 6.Ask any question from history,geography, basic maths, weather,current affair etc,but when the machine will speak "what can i do for you?" you must have to mention name of subject.
+ 
